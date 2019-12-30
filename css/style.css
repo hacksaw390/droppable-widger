@@ -1,0 +1,12 @@
+.box{
+	background: #eee;
+	border: 2px solid #666;
+	display: inline-table;
+	font-size: 18px;
+	padding: 5px;
+	width: 200px;
+
+}
+li{
+	font-size: 18px;
+}
